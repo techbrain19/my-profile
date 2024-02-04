@@ -1,0 +1,344 @@
+{
+  "hero": {
+    "imgUrl": "/images/cont.png",
+    "name": "Alatise Okiki Temidayo",
+    "heading": "Hay! I’m Techbrain ",
+    "typingText": ["I'm an engineer", 1500, "I'm a Programmer", 1500, "I'm a Developer", 1500, "I'm a Designer", 1500],
+    "description": "My name is Okiki Temidayo, I am a Fullstack Developer in various stack and languages,I find passion in developing of world class solving problem software and web applications that solve complex problems and provide value to end-users. Building remakeable project to help humanity have always been my abition and focus.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:whatsapp",
+      "iconBgClass": "Whatsapp",
+      "href": "https://wa.link/he4hcb"
+    },
+    {
+      "icon": "fa-brands:linkedin",
+      "iconBgClass": "Linkedin",
+      "href": "https://www.linkedin.com/in/techbrain19"
+    },
+    {
+      "icon": "fa-brands:twitter",
+      "iconBgClass": "Twitter",
+      "href": "https://twitter.com/Techbrain5"
+    },
+    { "icon": "fa-brands:facebook",
+    "iconBgClass": "Facebook",
+    "href": "https://web.facebook.com/profile.php?id=100083587802444"
+    },
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "Github",
+      "href": "https://github.com/techbrain19"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/react.svg",
+      "alt": "React"
+    },
+    {
+      "src": "/images/figma.svg",
+      "alt": "Figma"
+    },
+    {
+      "src": "/images/django.svg",
+      "alt": "Django"
+    },
+    {
+      "src": "/images/yii.svg",
+      "alt": "Yii"
+    },
+    {
+      "src": "/images/laravel.svg",
+      "alt": "Laravel"
+    },
+    {
+      "src": "/images/linux.svg",
+      "alt": "Linux"
+    },
+    {
+      "src": "/images/php.svg",
+      "alt": "PHP"
+    },
+    {
+      "src": "/images/wordpress.svg",
+      "alt": "WordPress"
+    },
+    {
+      "src": "/images/reactNative.svg",
+      "alt": "React native"
+    },
+    {
+      "src": "/images/java.svg",
+      "alt": "Java"
+    },
+    {
+      "src": "/images/androidStudio.svg",
+      "alt": "Android Studio"
+    },
+    {
+      "src": "/images/aws.svg",
+      "alt": "AWS"
+    },
+    {
+      "src": "/images/azure.svg",
+      "alt": "Azure"
+    },
+    {
+      "src": "/images/next.svg",
+      "alt": "Nextjs"
+    },
+    {
+      "src": "/images/nest.svg",
+      "alt": "Nest"
+    },
+    {
+      "src": "/images/vue.svg",
+      "alt": "Vue"
+    },
+    {
+      "src": "/images/flutter.svg",
+      "alt": "Flutter"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/cont.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>freelancing</span> PROJECTS",
+    "description": " I am outgoing, dedicated, and open-minded. I get across to people and adjusting to changes is easy for me. I believe that a person should work on developing their professional skills and learning new things all the time. I have enough knowlegde in Design, development, and engineering aspect of coding, software, computer hardware, database and Networking which consist of different language and also a certify computer engineer with cisco certificate.",
+    "btnText": "Download CV",
+    "btnUrl": " https://drive.google.com/file/d/1dcCalpKP_Ed1cX2i41OyYpS_Gc6j1qeP/view?usp=sharing"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdesignsmaz.com%2Fwp-content%2Fuploads%2F2014%2F03%2FSchoex-Ultimate-school-management-system.jpg&f=1&nofb=1&ipt=30522f20d202db5dba2dced29c5d2b3107c92df777cb371d6c3c31409bcd6dd2&ipo=images",
+        "title": "School Management System",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Website Application for startup/Existing School Management",
+          "description": "This is a school application that have the ability to manage all school activities such as the teacher, student, HOD, and Parents activities. I create modules for exam, attendant, classwork, library, parent, notices board, course registration and result for easy scaling of the system. i make sure that the payment gateway is successful installed and config with the application for smooth perfoormance and less stress.",
+          "type": "Web Based App",
+          "langages": "Yii2, HTML, CSS, JS, Api integration"
+        }
+      },
+      {
+        "thumbUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.uJaP3Eq5njcUpqVeH6_J5wHaEo%26pid%3DApi&f=1&ipt=b7081e3642e7be8c9577561d2d9f0dfd2090b638cd1670a7d8c3bcaa2e9678a0&ipo=images",
+        "title": "Banking app",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Banking System Application",
+          "description": "This is build for a private company. the system have three stagment ",
+          "type": "Website",
+          "langages": "NestJS, ReactJS, Mongodb"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.jpg",
+        "title": "Job Box",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website design for Job provider",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS, laravel, MySQL"
+        }
+      },
+      {
+        "thumbUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.7lMMvjeWZAYL0zmIv0O1PgHaFj%26pid%3DApi&f=1&ipt=e3538cda58510825bacbb9f99569630b420bd988bdc58b5d683e77225d4dfdbb&ipo=images",
+        "title": "ZipPos",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Web/Mobile Application Design for Store, Supermarket and Mall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS, Yii2"
+        }
+      },
+      {
+        "thumbUrl": "/images/work-1.png",
+        "title": "React Admin",
+        "subTitle": "Web Design, UI/UX Design",
+        "details": {
+          "title": "Front-End Design for Admin Panel",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "React, Redux, Prime React"
+        }
+      },
+      {
+        "thumbUrl": "https://www.lifewire.com/thmb/jDiDtk4vKTkTNgrJKD8Z9qv2W-U=/2524x1792/filters:no_upscale():max_bytes(150000):strip_icc()/the-8-best-plant-identification-apps-of-2020-50836258-894ba2b139ac48dbb5c37ba1ded14094.jpg",
+        "title": "Plant Recognation",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Web App for Farmer and People interested in Farming",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "Python, React Naive, "
+        }
+      },
+      {
+        "thumbUrl": "/images/pop4.png",
+        "title": "Tik tok Clone",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Tiktok Clone App",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "Flutter, Dart"
+        }
+      },
+      {
+        "thumbUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZwdqFTfH9UVddHslBkkH4wHaE8%26pid%3DApi&f=1&ipt=3ed8c4d5112b6152e476a7d98adc81edec55de74dd882b4af32e3f3eb55fcc6c&ipo=images",
+        "title": "Flash",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Web/Mobile Application For Ride Provider agent ",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "Yii2, React, React Native, Mongodb"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "<span>Services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "https://i.pinimg.com/564x/66/78/45/6678456cf6e0659804393bbbed5a75c6.jpg",
+        "title": "FrontEnd Design",
+        "subTitle": "Our frontend design services focus on crafting intuitive and engaging user interfaces for websites and web applications. We combine aesthetic appeal with usability to deliver an exceptional digital experience for your users.",
+        "icon": "bi:code-slash",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "https://i.pinimg.com/564x/3f/af/7b/3faf7bbc5494aed1b0bb53ec581cd138.jpg",
+        "title": "BackEnd Design",
+        "subTitle": "my expert in backend design ensures the development of robust and scalable systems that power your applications. i handle the intricacies of server-side programming, and API development to create efficient and secure backend solutions.",
+        "icon": "bi:hdd-stack",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "https://i.pinimg.com/564x/9e/ff/6e/9eff6e3b685efa45150b329197a20030.jpg",
+        "title": "Mobile Design",
+        "subTitle": "We specialize in creating visually stunning and user-friendly mobile app designs that captivate your audience and provide seamless experiences on various devices. Let us turn your app idea into a beautiful reality.",
+        "icon": "bi:android2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "https://i.pinimg.com/564x/c4/18/5b/c4185be9987e1b97257fa43e0798b35a.jpg",
+        "title": "Hosting",
+        "subTitle": "Simplify your website or application deployment with our reliable hosting services. We provide a secure and high-performance hosting environment, ensuring your site is always accessible and responsive to your users' needs.",
+        "icon": "bi:database-up",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "https://i.pinimg.com/564x/ab/1b/50/ab1b501b7be99bb35263ff414b5bc2bb.jpg",
+        "title": "Database Development",
+        "subTitle": "Our experts will design and optimize your database architecture, ensuring efficient data storage, retrieval, and management. We also provide reliable database administration services to maintain data integrity and performance.",
+        "icon" : "bi:database-fill-gear", 
+        "ratings": 5
+      },
+      {
+        "imgUrl": "https://i.pinimg.com/564x/16/0b/0c/160b0cf38bcbf53b178186fad5d537a9.jpg",
+        "title": "UI/UX Design",
+        "subTitle": "I specialize in creating captivating user interfaces and seamless user experiences. my UI/UX design services focus on understanding your target audience and creating intuitive designs that enhance user satisfaction and drive engagement.",
+        "icon": "bi:files",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "https://i.pinimg.com/564x/60/e6/87/60e687db989a7dc4709f7a571ce4597a.jpg",
+        "title": "Scripts Writer",
+        "subTitle": "Did you need custom scripts to automate tasks or enhance functionality? Our experienced in script writting can create tailored scripts to streamline your workflows, improve productivity, and automate repetitive processes in a speed of light.",
+        "icon": "bi:clipboard2-plus-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "https://i.pinimg.com/564x/4f/3b/95/4f3b956763777b465b06600f70923c95.jpg",
+        "title": "Desktop Application",
+        "subTitle": "We develop powerful and user-friendly desktop applications that cater to your specific business needs. Our expertise spans across various technologies, ensuring seamless performance and intuitive interfaces for your desktop software.",
+        "icon": "bi:laptop",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Senior Developer",
+        "company": "Digital Village limited",
+        "duration": "July 2019 - Dec 2023 ",
+        "jobType": "Full time",
+        "companyTitle": "Achievements/Tasks",
+        "companyDescription": "Analyzed systems flow, data usage, and work processes; investigated 100% of problem areas. Analyzed 30+ user requirements to derive technical software design and performance requirements. Planned, tracked, and managed deliverables on 200+ short-term sprints and 50+ long-term deployments. Developed code following common security practices and development design patterns resulting in a 30% reduction in security vulnerabilities and enhancing overall system robustness.Supervised a team of 2 IT analysts and managed relationships with external vendors and advisers.Provided one-on-one research consultations to students, leading to improved research outcomes and a 17% increase in productivity."
+      },
+      {
+        "designation": "Head of ICT Department",
+        "company": "Africanvoice Internation News Company",
+        "duration": "Jan 2024 - Present",
+        "jobType": "Full time",
+        "companyTitle": "Achievements/Tasks",
+        "companyDescription": "Analyzed systems flow, data usage, and work processes; investigated 100% of problem areas. Analyzed 30+ user requirements to derive technical software design and performance requirements. Planned, tracked, and managed deliverables on 200+ short-term sprints and 50+ long-term deployments. Developed code following common security practices and development design patterns resulting in a 30% reduction in security vulnerabilities and enhancing overall system robustness.Supervised a team of 2 IT analysts and managed relationships with external vendors and advisers.Provided one-on-one research consultations to students, leading to improved research outcomes and a 17% increase in productivity."
+      },
+      {
+        "designation": "Computer Engineer",
+        "company": "Skoteck company limited",
+        "duration": "Nov 2016 - Dec 2017",
+        "jobType": "Full time",
+        "companyTitle": "Achievements/Tasks",
+        "companyDescription": "Led the cleaning and repair of computer systems, to ensure resident safety and comfort, resulting in a 20% decrease in equipment malfunctions and enhanced operational efficiency. Led networking and IP telephony infrastructure initiatives, achieving a 40% improvement in network performance and ensuring uninterrupted communication for all users. Developed and authored technical documentation for processes and infrastructure, resulting in a substantial reduction of onboarding time for new engineers by 2 days. Drove operational improvements, leading to an 11% year-over-year increase in network efficiency and productivity. Tested software for bugs and operating speed, achieving resolution of identified issues and documentation of streamlined processes, resulting in an 18% increase in efficiency."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let\n’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/cont.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "Techbrain19@gmail.com" },
+      { "title": "Contact us with", "tel": "+2347037015748" }
+    ]
+  }
+}
