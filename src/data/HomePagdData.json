@@ -3,7 +3,16 @@
     "imgUrl": "/images/cont.png",
     "name": "Alatise Okiki Temidayo",
     "heading": "Hay! I’m Techbrain ",
-    "typingText": ["I'm an engineer", 1500, "I'm a Programmer", 1500, "I'm a Developer", 1500, "I'm a Designer", 1500],
+    "typingText": [
+      "I'm an engineer",
+      1500,
+      "I'm a Programmer",
+      1500,
+      "I'm a Developer",
+      1500,
+      "I'm a Designer",
+      1500
+    ],
     "description": "My name is Okiki Temidayo, I am a Fullstack Developer in various stack and languages,I find passion in developing of world class solving problem software and web applications that solve complex problems and provide value to end-users. Building remakeable project to help humanity have always been my abition and focus.",
     "btnText": "Get in touch",
     "btnUrl": "contactus"
@@ -23,10 +32,6 @@
       "icon": "fa-brands:twitter",
       "iconBgClass": "Twitter",
       "href": "https://twitter.com/Techbrain5"
-    },
-    { "icon": "fa-brands:facebook",
-    "iconBgClass": "Facebook",
-    "href": "https://web.facebook.com/profile.php?id=100083587802444"
     },
     {
       "icon": "fa-brands:github",
@@ -246,7 +251,7 @@
         "imgUrl": "https://i.pinimg.com/564x/ab/1b/50/ab1b501b7be99bb35263ff414b5bc2bb.jpg",
         "title": "Database Development",
         "subTitle": "Our experts will design and optimize your database architecture, ensuring efficient data storage, retrieval, and management. We also provide reliable database administration services to maintain data integrity and performance.",
-        "icon" : "bi:database-fill-gear", 
+        "icon": "bi:database-fill-gear",
         "ratings": 5
       },
       {
@@ -284,7 +289,7 @@
         "duration": "July 2019 - Dec 2023 ",
         "jobType": "Full time",
         "companyTitle": "Achievements/Tasks",
-        "companyDescription": "Analyzed systems flow, data usage, and work processes; investigated 100% of problem areas. Analyzed 30+ user requirements to derive technical software design and performance requirements. Planned, tracked, and managed deliverables on 200+ short-term sprints and 50+ long-term deployments. Developed code following common security practices and development design patterns resulting in a 30% reduction in security vulnerabilities and enhancing overall system robustness.Supervised a team of 2 IT analysts and managed relationships with external vendors and advisers.Provided one-on-one research consultations to students, leading to improved research outcomes and a 17% increase in productivity."
+        "companyDescription": "Analyzed systems flow, data usage, and work processes, investigated 100% of problem areas. \u000AAnalyzed 30+ user requirements to derive technical software design and performance requirements. \u000APlanned, tracked, and managed deliverables on 200+ short-term sprints and 50+ long-term deployments. \nDeveloped code following common security practices and development design patterns resulting in a 30% reduction in security vulnerabilities and enhancing overall system robustness. \u000ASupervised a team of 2 IT analysts and managed relationships with external vendors and advisers.Provided one-on-one research consultations to students, leading to improved research outcomes and a 17% increase in productivity."
       },
       {
         "designation": "Head of ICT Department",
@@ -292,7 +297,7 @@
         "duration": "Jan 2024 - Present",
         "jobType": "Full time",
         "companyTitle": "Achievements/Tasks",
-        "companyDescription": "Analyzed systems flow, data usage, and work processes; investigated 100% of problem areas. Analyzed 30+ user requirements to derive technical software design and performance requirements. Planned, tracked, and managed deliverables on 200+ short-term sprints and 50+ long-term deployments. Developed code following common security practices and development design patterns resulting in a 30% reduction in security vulnerabilities and enhancing overall system robustness.Supervised a team of 2 IT analysts and managed relationships with external vendors and advisers.Provided one-on-one research consultations to students, leading to improved research outcomes and a 17% increase in productivity."
+        "companyDescription": " Developed and enhanced product security systems meeting 100% of client requirements. \u000ACollaborated with staff to resolve network issues and implement fixes, resulting in 31% fewer malfunctions. \u000AAnalyzed diagnostic data to understand causes/correlations of network issues and presented results to internal staff.\u000ADeveloped solutions for software/hardware compatibility. \u000AInstalled and upgraded internal applications and documentation, reducing installation errors by 12% Updated workflows for software deployment, tech support, and phone system maintenance, increasing efficiency by 38%. \u000ASupervised a team of 2 IT analysts and managed relationships with external vendors and advisers."
       },
       {
         "designation": "Computer Engineer",
@@ -300,7 +305,7 @@
         "duration": "Nov 2016 - Dec 2017",
         "jobType": "Full time",
         "companyTitle": "Achievements/Tasks",
-        "companyDescription": "Led the cleaning and repair of computer systems, to ensure resident safety and comfort, resulting in a 20% decrease in equipment malfunctions and enhanced operational efficiency. Led networking and IP telephony infrastructure initiatives, achieving a 40% improvement in network performance and ensuring uninterrupted communication for all users. Developed and authored technical documentation for processes and infrastructure, resulting in a substantial reduction of onboarding time for new engineers by 2 days. Drove operational improvements, leading to an 11% year-over-year increase in network efficiency and productivity. Tested software for bugs and operating speed, achieving resolution of identified issues and documentation of streamlined processes, resulting in an 18% increase in efficiency."
+        "companyDescription": "Led the cleaning and repair of computer systems, to ensure resident safety and comfort, resulting in a 20% decrease in equipment malfunctions and enhanced operational efficiency. \nLed networking and IP telephony infrastructure initiatives, achieving a 40% improvement in network performance and ensuring uninterrupted communication for all users. \u000ADeveloped and authored technical documentation for processes and infrastructure, resulting in a substantial reduction of onboarding time for new engineers by 2 days. \u000ADrove operational improvements, leading to an 11% year-over-year increase in network efficiency and productivity. \u000ATested software for bugs and operating speed, achieving resolution of identified issues and documentation of streamlined processes, resulting in an 18% increase in efficiency."
       }
     ]
   },
@@ -337,8 +342,14 @@
     },
     "contactImg": "/images/cont.png",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "Techbrain19@gmail.com" },
-      { "title": "Contact us with", "tel": "+2347037015748" }
+      {
+        "title": "Write an e-mail",
+        "email": "Techbrain19@gmail.com"
+      },
+      {
+        "title": "Contact us with",
+        "tel": "+2347037015748"
+      }
     ]
   }
 }

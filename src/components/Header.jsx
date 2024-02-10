@@ -32,7 +32,7 @@ export default function Header() {
               className="logo-light"
               title
               alt="Logo"
-              src="/images/logo.svg"
+              src="images/logo.svg"
             />
           </Link>
         </div>
