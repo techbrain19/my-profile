@@ -307,32 +307,6 @@
       }
     ]
   },
-  "testimonial": {
-    "sectionHeading": {
-      "miniTitle": "Testimonial",
-      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
-    },
-    "allTestimonial": [
-      {
-        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
-        "avatarImg": "/images/avatar-1.jpg",
-        "avatarName": "Pamela Anders",
-        "avatarCompany": "Company Name"
-      },
-      {
-        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
-        "avatarImg": "/images/avatar-2.jpg",
-        "avatarName": "Pamela Anders",
-        "avatarCompany": "Company Name"
-      },
-      {
-        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
-        "avatarImg": "/images/avatar-3.jpg",
-        "avatarName": "Pamela Anders",
-        "avatarCompany": "Company Name"
-      }
-    ]
-  },
   "contact": {
     "sectionHeading": {
       "title": "Let\n’s Discuss Your Project",
