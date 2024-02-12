@@ -13,7 +13,7 @@
       "I'm a Designer",
       1500
     ],
-    "description": "My name is Okiki Temidayo, I am a Fullstack Developer in various stack and languages,I find passion in developing of world class solving problem software and web applications that solve complex problems and provide value to end-users. Building remakeable project to help humanity have always been my abition and focus.",
+    "description": "Okiki Temidayo is my name, and I have expertise as a Full-stack Developer in a diverse range of programming stacks and languages. My passion lies in crafting top-notch problem-solving software and web applications that effectively address complex issues and offer substantial value to end-users. My primary ambition and focus have always revolved around creating exceptional projects that positively impact humanity.",
     "btnText": "Get in touch",
     "btnUrl": "contactus"
   },
@@ -113,7 +113,7 @@
     "imgSrc": "/images/cont.png",
     "miniTitle": "About Us",
     "title": "I AM AVAILABLE FOR <span>freelancing</span> PROJECTS",
-    "description": " I am outgoing, dedicated, and open-minded. I get across to people and adjusting to changes is easy for me. I believe that a person should work on developing their professional skills and learning new things all the time. I have enough knowlegde in Design, development, and engineering aspect of coding, software, computer hardware, database and Networking which consist of different language and also a certify computer engineer with cisco certificate.",
+    "description": " I embody qualities such as outgoingness, dedication, and an open-minded mindset. Effectively connecting with individuals and adapting to dynamic environments comes naturally to me. I firmly believe in the perpetual enhancement of one's professional skill set and the continuous pursuit of knowledge. I possess extensive expertise in diverse domains, including coding, software development, computer hardware, database management, and networking. Moreover, I hold a prestigious certification as a computer engineer with a Cisco accreditation.",
     "btnText": "Download CV",
     "btnUrl": " https://drive.google.com/file/d/1dcCalpKP_Ed1cX2i41OyYpS_Gc6j1qeP/view?usp=sharing"
   },
@@ -129,7 +129,7 @@
         "subTitle": "Web Design",
         "details": {
           "title": "Website Application for startup/Existing School Management",
-          "description": "This is a school application that have the ability to manage all school activities such as the teacher, student, HOD, and Parents activities. I create modules for exam, attendant, classwork, library, parent, notices board, course registration and result for easy scaling of the system. i make sure that the payment gateway is successful installed and config with the application for smooth perfoormance and less stress.",
+          "description": "This comprehensive school application is designed to proficiently manage all aspects of school activities, including those pertaining to teachers, students, Heads of Departments (HODs), and parents. I have developed modules for a range of functionalities such as exams, attendance tracking, classwork management, library services, parent communication, notice boards, course registration, and result management, ensuring seamless scalability of the system. Furthermore, I have successfully installed and configured the payment gateway, guaranteeing smooth performance and minimizing operational complexities.",
           "type": "Web Based App",
           "langages": "Yii2, HTML, CSS, JS, Api integration"
         }
@@ -140,9 +140,9 @@
         "subTitle": "Web Design, App Design",
         "details": {
           "title": "Banking System Application",
-          "description": "This is build for a private company. the system have three stagment ",
+          "description": "This application has been developed exclusively for a private company. It exhibits comprehensive functionality, enabling the execution of various banking operations such as deposits, transfers, card management, and transaction history recording. The system has been divided into two distinctive segments: the user-facing interface and the banking infrastructure. The frontend has been constructed utilizing React, while the backend has been implemented using Next.js, seamlessly integrating Axios for efficient API handling, and MongoDB to facilitate robust database management.",
           "type": "Website",
-          "langages": "NestJS, ReactJS, Mongodb"
+          "langages": "NestJS, ReactJS, Mongodb, Java"
         }
       },
       {
@@ -151,18 +151,18 @@
         "subTitle": "Web Design, App Design",
         "details": {
           "title": "Website design for Job provider",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "description": "Jobbox is constructed using the Laravel framework, employing PHP, and boasting an aesthetically pleasing frontend design utilizing Bootstrap 4. The core purpose of this project is to alleviate the challenges and complexities associated with job hunting. The system is meticulously categorized into three distinct facets: the individual aspect, the company aspect, and the administration module. We empower both individuals and companies to create job listings, while simultaneously providing agents and users with the opportunity to bid on these job postings. The administrator holds paramount control over all system operations, as their approval is required for each user action.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS, laravel, MySQL"
         }
       },
       {
         "thumbUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.7lMMvjeWZAYL0zmIv0O1PgHaFj%26pid%3DApi&f=1&ipt=e3538cda58510825bacbb9f99569630b420bd988bdc58b5d683e77225d4dfdbb&ipo=images",
-        "title": "ZipPos",
+        "title": "ZipPOS",
         "subTitle": "Web Design, App Design",
         "details": {
           "title": "Web/Mobile Application Design for Store, Supermarket and Mall",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "description": "ZipPOS serves as a comprehensive point-of-sale solution tailored for various marketplaces. We meticulously analyze the hierarchical structure inherent to each product-selling marketplace, ensuring that the software program aligns with this specific pattern, encompassing the roles of admin, stocker, and cashier. The admin assumes control over price tag management, while the stocker is responsible for efficient inventory management within the company. Furthermore, this software facilitates meticulous record-keeping for the admin, allowing them to accurately track the inflow and outflow of goods, including any associated debits or losses.",
           "type": "Website",
           "langages": "PHP, HTML, CSS, JS, Yii2"
         }
@@ -173,8 +173,7 @@
         "subTitle": "Web Design, UI/UX Design",
         "details": {
           "title": "Front-End Design for Admin Panel",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
+          "description": "This administration dashboard has been developed utilizing React.js. Drawing inspiration from Prime, I have incorporated Redux and Tailwind CSS into the project. It encompasses a comprehensive range of components required for creating diverse React applications, ranging from layout components to main views. Each component has been meticulously crafted with attention to detail, presenting a clean and intuitive interface to enhance ease of comprehension.",
           "langages": "React, Redux, Prime React"
         }
       },
@@ -184,9 +183,8 @@
         "subTitle": "Web Design, App Design",
         "details": {
           "title": "Web App for Farmer and People interested in Farming",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "type": "Website",
-          "langages": "Python, React Naive, "
+          "description": "The Plant Recognition system is an innovative mobile application designed to accurately identify plants. By simply capturing an image of a plant, users can receive instant information on its common name and botanical name. This application has been developed using React Native for seamless integration with mobile devices, and it utilizes a Kaggle dataset to ensure reliable and comprehensive plant identification.",
+          "langages": "Python, React Native, "
         }
       },
       {
@@ -195,7 +193,7 @@
         "subTitle": "Web Design, App Design",
         "details": {
           "title": "Tiktok Clone App",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "description": "The TikTok clone app faithfully reproduces the functionality of the original website, while being built on the Flutter framework using the Dart programming language. It encompasses all the key components of the main program, including user registration, chat with comments and likes, and even supports live streaming capabilities. Furthermore, the app incorporates a sophisticated algorithm that strategically promotes each post on a global scale, leveraging location-based targeting to maximize visibility.",
           "type": "Website",
           "langages": "Flutter, Dart"
         }
@@ -206,7 +204,7 @@
         "subTitle": "Web Design, App Design",
         "details": {
           "title": "Web/Mobile Application For Ride Provider agent ",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "description": "Flash is a transportation media mobile app that offers advanced features such as distance calculation between drivers, customers, and customer destinations. Leveraging real-time location services, the app accurately determines the user's precise location. To ensure data authenticity, drivers are required to daily verify their information by capturing images of their vehicles using the provided camera prompt. Additionally, they must capture a self-portrait for visual identification purposes. The main program is developed using Yii2, while React Native is utilized for the mobile app, which is seamlessly connected to MongoDB. Furthermore, the app facilitates communication between drivers and clients, enabling them to engage in chat conversations to negotiate prices.",
           "type": "Website",
           "langages": "Yii2, React, React Native, Mongodb"
         }
@@ -216,62 +214,62 @@
   "service": {
     "sectionHeading": {
       "miniTitle": "SERVICES",
-      "title": "<span>Services</span> I am providing"
+      "title": "<span>Services</span> I provided"
     },
     "allService": [
       {
         "imgUrl": "https://i.pinimg.com/564x/66/78/45/6678456cf6e0659804393bbbed5a75c6.jpg",
         "title": "FrontEnd Design",
-        "subTitle": "Our frontend design services focus on crafting intuitive and engaging user interfaces for websites and web applications. We combine aesthetic appeal with usability to deliver an exceptional digital experience for your users.",
+        "subTitle": "My specialization lies in offering comprehensive frontend design services that prioritize the creation of user interfaces that are both intuitive and engaging for websites and web applications. By seamlessly blending aesthetic appeal and usability, I strive to deliver an exceptional digital experience that captivates and satisfies the needs of your users.",
         "icon": "bi:code-slash",
         "ratings": 5
       },
       {
         "imgUrl": "https://i.pinimg.com/564x/3f/af/7b/3faf7bbc5494aed1b0bb53ec581cd138.jpg",
         "title": "BackEnd Design",
-        "subTitle": "my expert in backend design ensures the development of robust and scalable systems that power your applications. i handle the intricacies of server-side programming, and API development to create efficient and secure backend solutions.",
+        "subTitle": " Leveraging my expertise in backend design, I am committed to developing resilient and scalable systems that serve as the backbone of your applications. With a deep understanding of server-side programming and API development, I proficiently tackle the intricacies involved, resulting in the creation of highly efficient and secure backend solutions.",
         "icon": "bi:hdd-stack",
-        "ratings": 4.5
+        "ratings": 5
       },
       {
         "imgUrl": "https://i.pinimg.com/564x/9e/ff/6e/9eff6e3b685efa45150b329197a20030.jpg",
         "title": "Mobile Design",
-        "subTitle": "We specialize in creating visually stunning and user-friendly mobile app designs that captivate your audience and provide seamless experiences on various devices. Let us turn your app idea into a beautiful reality.",
+        "subTitle": "My specialization lies in the creation of visually captivating and user-friendly mobile app designs that effortlessly engage your target audience and offer seamless experiences across a wide range of devices. Entrust me with the task of transforming your app idea into a stunning reality.",
         "icon": "bi:android2",
         "ratings": 5
       },
       {
         "imgUrl": "https://i.pinimg.com/564x/c4/18/5b/c4185be9987e1b97257fa43e0798b35a.jpg",
         "title": "Hosting",
-        "subTitle": "Simplify your website or application deployment with our reliable hosting services. We provide a secure and high-performance hosting environment, ensuring your site is always accessible and responsive to your users' needs.",
+        "subTitle": "Simplify the deployment of your website or application by utilizing our dependable hosting services. Our hosting environment is designed to be secure and high-performing, guaranteeing that your site remains accessible and responsive to meet the needs of your users.",
         "icon": "bi:database-up",
         "ratings": 5
       },
       {
         "imgUrl": "https://i.pinimg.com/564x/ab/1b/50/ab1b501b7be99bb35263ff414b5bc2bb.jpg",
         "title": "Database Development",
-        "subTitle": "Our experts will design and optimize your database architecture, ensuring efficient data storage, retrieval, and management. We also provide reliable database administration services to maintain data integrity and performance.",
+        "subTitle": "I possess the ability to design and optimize your database architecture, thereby ensuring efficient data storage, retrieval, and management. Furthermore, I offer dependable database administration services to uphold data integrity and enhance performance.",
         "icon": "bi:database-fill-gear",
         "ratings": 5
       },
       {
         "imgUrl": "https://i.pinimg.com/564x/16/0b/0c/160b0cf38bcbf53b178186fad5d537a9.jpg",
         "title": "UI/UX Design",
-        "subTitle": "I specialize in creating captivating user interfaces and seamless user experiences. my UI/UX design services focus on understanding your target audience and creating intuitive designs that enhance user satisfaction and drive engagement.",
+        "subTitle": "I possess expertise in the creation of compelling user interfaces and seamless user experiences. My UI/UX design services revolve around a thorough understanding of your target audience, enabling the development of intuitive designs that significantly amplify user satisfaction and stimulate engagement.",
         "icon": "bi:files",
         "ratings": 5
       },
       {
         "imgUrl": "https://i.pinimg.com/564x/60/e6/87/60e687db989a7dc4709f7a571ce4597a.jpg",
         "title": "Scripts Writer",
-        "subTitle": "Did you need custom scripts to automate tasks or enhance functionality? Our experienced in script writting can create tailored scripts to streamline your workflows, improve productivity, and automate repetitive processes in a speed of light.",
+        "subTitle": "Are you in need of customized scripts to automate tasks or enhance functionality? With my extensive experience in script writing, I am capable of developing tailored scripts that streamline workflows, enhance productivity, and automate repetitive processes with exceptional speed.",
         "icon": "bi:clipboard2-plus-fill",
         "ratings": 5
       },
       {
         "imgUrl": "https://i.pinimg.com/564x/4f/3b/95/4f3b956763777b465b06600f70923c95.jpg",
         "title": "Desktop Application",
-        "subTitle": "We develop powerful and user-friendly desktop applications that cater to your specific business needs. Our expertise spans across various technologies, ensuring seamless performance and intuitive interfaces for your desktop software.",
+        "subTitle": "I specialize in developing robust and user-friendly desktop applications that are customized to cater to your specific business needs. My extensive expertise encompasses a wide range of technologies, ensuring flawless performance and intuitive interfaces for your desktop software.",
         "icon": "bi:laptop",
         "ratings": 5
       }
@@ -338,7 +336,7 @@
   "contact": {
     "sectionHeading": {
       "title": "Let\n’s Discuss Your Project",
-      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+      "subTitle": "I am readily available for freelance work, and I welcome you to contact me if you have a suitable project."
     },
     "contactImg": "/images/cont.png",
     "contactInfo": [
