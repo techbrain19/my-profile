@@ -5,6 +5,7 @@ import Hero from '../components/Hero';
 import About from '../components/About';
 import Service from '../components/Service';
 import HomePagdData from '../data/HomePagdData.json';
+import Experience from '../components/Experience';
 import Contact from '../components/Contact';
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
     about,
     projects,
     service,
+    experience,
     contact,
   } = HomePagdData;
   return (
@@ -24,6 +26,7 @@ export default function Home() {
       <About data={about} />
       <Projects data={projects} />
       <Service data={service} />
+      <Experience data={experience} />
       <Contact data={contact} socialData={socialBtns} />
     </>
   );
