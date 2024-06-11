@@ -146,17 +146,6 @@
         }
       },
       {
-        "thumbUrl": "/images/jobbox.png",
-        "title": "Job Box",
-        "subTitle": "Web Design, App Design",
-        "details": {
-          "title": "Website design for Job provider",
-          "description": "Jobbox is constructed using the Laravel framework, employing PHP, and boasting an aesthetically pleasing frontend design utilizing Bootstrap 4. The core purpose of this project is to alleviate the challenges and complexities associated with job hunting. The system is meticulously categorized into three distinct facets: the individual aspect, the company aspect, and the administration module. We empower both individuals and companies to create job listings, while simultaneously providing agents and users with the opportunity to bid on these job postings. The administrator holds paramount control over all system operations, as their approval is required for each user action.",
-          "type": "Website",
-          "langages": "PHP, HTML, CSS, JS, laravel, MySQL"
-        }
-      },
-      {
         "thumbUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.7lMMvjeWZAYL0zmIv0O1PgHaFj%26pid%3DApi&f=1&ipt=e3538cda58510825bacbb9f99569630b420bd988bdc58b5d683e77225d4dfdbb&ipo=images",
         "title": "ZipPOS",
         "subTitle": "Web Design, App Design",
