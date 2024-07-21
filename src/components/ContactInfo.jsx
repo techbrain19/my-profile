@@ -15,7 +15,7 @@ export default function ContactInfo({ contactInfoData }) {
           {item.email && <a href={`mailto:${item.email}`}>{item.email}</a>}
           {item.tel && <a href={`tel:${item.tel}`}>{item.tel}</a>}
         </div>
-      ))},
+      ))}
       {/* 
        Designed and executed global social media strategy across 1.2M followers on LinkedIn, Twitter, and Facebook
       */}
